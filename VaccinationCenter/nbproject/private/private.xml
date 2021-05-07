@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/VaccinationCenterManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoExamination.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/GoExaminationVaccination.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/VaccinationManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/CanteenManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/Examination.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/vaccinationcenter/gui/Chart.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/Registration.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoArrival.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/simulation/Id.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/vaccinationcenter/main.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoVaccination.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/WaitingRoomManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoWaiting.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/vaccinationcenter/agents/Person.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoLunch.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/EnviromentManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/WaitingRoom.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoRegistration.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/RegistrationManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/SyringesManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/simulation/MyMessage.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/Canteen.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/ExaminationManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/Enviroment.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/Model.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoRefill.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/Vaccination.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/GoRegistrationExamination.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/managers/ModelManager.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/DoCanteen.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/GoRoom.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/Syringes.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/simulation/Mc.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/simulation/MySimulation.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/agents/VaccinationCenter.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/GoVaccinationWaiting.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/continualAssistants/GoCanteen.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/vaccinationcenter/agents/Staff.java</file>
+            <file>file:/Users/davidpavlicko/Documents/School/Inzinier/10.Semester/Diskretna%20simulacia/Semestralka%203/VaccinationCenter/src/vaccinationcenter/gui/GUI.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,7 @@
+ABACore 2.1, 2017-04-20
+------------------------
+- Správy notice posielané kontinuálnym asistentom su vždy posielané jeho agentovi
+
+ABACore 2.2, 2020-05-05
+------------------------
+- Zrýchlenie práce s dynamickými agentami
